@@ -16,4 +16,4 @@
 🚀 [Rhythmix - Web3 Music NFT Marketplace](https://github.com/aditya-chaudhary-7724/rhythmix)
 
 ### 💡 Let's Connect!
-[![LinkedIn]((https://www.linkedin.com/in/aditya-chaudhary7724/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-chaudhary-7724/)
