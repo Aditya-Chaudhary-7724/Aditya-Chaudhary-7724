@@ -2,7 +2,6 @@
 🚀 **2nd Year CS Student | Front-End Developer | Blockchain Enthusiast**
 
 ### 🔥 About Me:
-- 🌳 Building a **Tree-Planting Business** that integrates AI & Web3.
 - 💻 Passionate about **React.js, AI/ML, Blockchain**.
 
 ### 🛠️ Tech Stack:
@@ -11,7 +10,7 @@
 - **Other:** Linux, C, C++, Java, Python, 
 
 ### 📈 GitHub Stats:
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Aditya's GitHub stats]([https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical](https://github.com/Aditya-Chaudhary-7724/Rhythmix))
 
 ### 🌟 Featured Projects:
 🚀 [Rhythmix - Web3 Music NFT Marketplace](https://github.com/your-username/rhythmix)
