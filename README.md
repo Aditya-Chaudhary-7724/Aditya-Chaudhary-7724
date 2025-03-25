@@ -13,7 +13,7 @@
 ![Aditya's GitHub stats]([https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical](https://github.com/Aditya-Chaudhary-7724/Rhythmix))
 
 ### 🌟 Featured Projects:
-🚀 [Rhythmix - Web3 Music NFT Marketplace](https://github.com/your-username/rhythmix)
+🚀 [Rhythmix - Web3 Music NFT Marketplace](https://github.com/aditya-chaudhary-7724/rhythmix)
 
 ### 💡 Let's Connect!
 [![LinkedIn]((https://www.linkedin.com/in/aditya-chaudhary7724/))
